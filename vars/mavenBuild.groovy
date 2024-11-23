@@ -1,4 +1,4 @@
-def call(String mavenGoal){
+:wqdef call(String mavenGoal){
   
   if ("${mavenGoal}" == "Clean")
      {
